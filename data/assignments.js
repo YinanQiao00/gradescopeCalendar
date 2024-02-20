@@ -182,7 +182,7 @@ assignments = {
     {
       "title": "Software Architecture",
       "course": "CSE210_WI24_B00",
-      "dueDate": "2024-02-23T17:22:00",
+      "dueDate": "2024-02-23T23:59:00",
       "link": "https://www.gradescope.com/courses/699955/assignments/4100045/submissions/new",
       "submitted": false
     }
