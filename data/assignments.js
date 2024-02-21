@@ -127,8 +127,8 @@ assignments = {
       "title": "Individual contribution to groups, week 7",
       "course": "CSE210_WI24_B00",
       "dueDate": "2024-02-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/699955/assignments/3964148/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/699955/assignments/3964148/submissions/232860344",
+      "submitted": true
     },
     {
       "title": "Code Review",
