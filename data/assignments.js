@@ -39,8 +39,8 @@ assignments = {
       "title": "Homework 6",
       "course": "CSE 251U",
       "dueDate": "2024-02-23T01:59:00",
-      "link": "https://www.gradescope.com/courses/707427",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/707427/assignments/4117813/submissions/233458873",
+      "submitted": true
     }
   ],
   "CSE202_WI24_A00": [
