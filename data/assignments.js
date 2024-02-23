@@ -176,8 +176,8 @@ assignments = {
       "title": "Security Assignment",
       "course": "CSE210_WI24_B00",
       "dueDate": "2024-02-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/699955",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/699955/assignments/4098248/submissions/233635124",
+      "submitted": true
     },
     {
       "title": "Software Architecture",
