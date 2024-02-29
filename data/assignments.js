@@ -85,6 +85,13 @@ assignments = {
       "dueDate": "2024-02-23T23:59:00",
       "link": "https://www.gradescope.com/courses/690517/assignments/4081729/submissions/233828875",
       "submitted": true
+    },
+    {
+      "title": "Homework 4",
+      "course": "CSE202_WI24_A00",
+      "dueDate": "2024-03-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/690517",
+      "submitted": false
     }
   ],
   "CSE210_WI24_B00": [
