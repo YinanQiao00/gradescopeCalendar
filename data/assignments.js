@@ -96,7 +96,7 @@ assignments = {
     {
       "title": "Homework 4",
       "course": "CSE202_WI24_A00",
-      "dueDate": "2024-03-01T23:59:00",
+      "dueDate": "2024-03-03T23:59:00",
       "link": "https://www.gradescope.com/courses/690517",
       "submitted": false
     }
