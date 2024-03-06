@@ -220,6 +220,13 @@ assignments = {
       "dueDate": "2024-03-02T23:59:00",
       "link": "https://www.gradescope.com/courses/699955/assignments/4100045/submissions/236114437",
       "submitted": true
+    },
+    {
+      "title": "Individual Reflection",
+      "course": "CSE210_WI24_B00",
+      "dueDate": "2024-03-15T23:59:00",
+      "link": "https://www.gradescope.com/courses/699955",
+      "submitted": false
     }
   ]
 };
