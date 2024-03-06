@@ -52,7 +52,7 @@ assignments = {
     {
       "title": "Homework 8",
       "course": "CSE 251U",
-      "dueDate": "2024-03-07T22:00:00",
+      "dueDate": "2024-03-12T22:00:00",
       "link": "https://www.gradescope.com/courses/707427",
       "submitted": false
     }
