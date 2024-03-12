@@ -106,6 +106,20 @@ assignments = {
       "dueDate": "2024-03-06T23:59:00",
       "link": "https://www.gradescope.com/courses/690517/assignments/4204797/submissions/237271088",
       "submitted": true
+    },
+    {
+      "title": "Homework 5",
+      "course": "CSE202_WI24_A00",
+      "dueDate": "2024-03-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/690517",
+      "submitted": false
+    },
+    {
+      "title": "Homework 6",
+      "course": "CSE202_WI24_A00",
+      "dueDate": "2024-03-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/690517",
+      "submitted": false
     }
   ],
   "CSE210_WI24_B00": [
