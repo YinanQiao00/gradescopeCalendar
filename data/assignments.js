@@ -134,6 +134,13 @@ assignments = {
       "dueDate": "2024-03-15T23:59:00",
       "link": "https://www.gradescope.com/courses/690517",
       "submitted": false
+    },
+    {
+      "title": "Final Exam",
+      "course": "CSE202_WI24_A00",
+      "dueDate": "2024-03-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/690517",
+      "submitted": false
     }
   ],
   "CSE210_WI24_B00": [
