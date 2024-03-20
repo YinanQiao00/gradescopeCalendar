@@ -125,8 +125,8 @@ assignments = {
       "title": "Homework 6",
       "course": "CSE202_WI24_A00",
       "dueDate": "2024-03-19T23:59:00",
-      "link": "https://www.gradescope.com/courses/690517",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/690517/assignments/4224003/submissions/240351139",
+      "submitted": true
     },
     {
       "title": "Project Implementation and Testing",
