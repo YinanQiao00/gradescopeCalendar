@@ -1,9 +1,9 @@
 assignments = {
   "CSE 218": [
     {
-      "title": "Week 1: Information Hiding",
+      "title": "Week 1: Information Hiding - Readings",
       "course": "CSE 218",
-      "dueDate": "2024-04-04T09:30:00",
+      "dueDate": "2024-04-04T15:30:00",
       "link": "https://www.gradescope.com/courses/762624",
       "submitted": false
     }
