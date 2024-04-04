@@ -6,6 +6,13 @@ assignments = {
       "dueDate": "2024-04-04T15:30:00",
       "link": "https://www.gradescope.com/courses/762624",
       "submitted": false
+    },
+    {
+      "title": "Week 1: Information Hiding - Discussion",
+      "course": "CSE 218",
+      "dueDate": "2024-04-04T20:30:00",
+      "link": "https://www.gradescope.com/courses/762624",
+      "submitted": false
     }
   ],
   "CSE224_SP24_A00": [
