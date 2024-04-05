@@ -8,6 +8,7 @@ assignments = {
       "submitted": false
     }
   ],
+  "ECE 285": [],
   "MATH294_SP24_A00": [
     {
       "title": "Homework 1",
