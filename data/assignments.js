@@ -22,6 +22,13 @@ assignments = {
       "dueDate": "2024-04-23T23:59:00",
       "link": "https://www.gradescope.com/courses/760926",
       "submitted": false
+    },
+    {
+      "title": "Assignment 1 - Code",
+      "course": "ECE 285",
+      "dueDate": "2024-04-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/760926",
+      "submitted": false
     }
   ],
   "MATH294_SP24_A00": [
