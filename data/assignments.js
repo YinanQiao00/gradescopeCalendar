@@ -15,7 +15,15 @@ assignments = {
       "submitted": false
     }
   ],
-  "ECE 285": [],
+  "ECE 285": [
+    {
+      "title": "Assignment 1",
+      "course": "ECE 285",
+      "dueDate": "2024-04-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/760926",
+      "submitted": false
+    }
+  ],
   "MATH294_SP24_A00": [
     {
       "title": "Homework 1",
