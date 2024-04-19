@@ -11,7 +11,7 @@ assignments = {
       "title": "Project 1: Networked Sort",
       "course": "CSE224_SP24_A00",
       "dueDate": "2024-04-19T23:59:00",
-      "link": "https://www.gradescope.com/courses/744919/assignments/4335834/submissions/247971533",
+      "link": "https://www.gradescope.com/courses/744919/assignments/4335834/submissions/248360294",
       "submitted": true
     }
   ],
