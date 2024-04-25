@@ -30,21 +30,5 @@ assignments = {
       "link": "https://www.gradescope.com/courses/762798/assignments/4370038/submissions/249447493",
       "submitted": true
     }
-  ],
-  "ECE 285": [
-    {
-      "title": "Assignment 1",
-      "course": "ECE 285",
-      "dueDate": "2024-04-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/760926",
-      "submitted": false
-    },
-    {
-      "title": "Assignment 1 - Code",
-      "course": "ECE 285",
-      "dueDate": "2024-04-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/760926",
-      "submitted": false
-    }
   ]
 };
