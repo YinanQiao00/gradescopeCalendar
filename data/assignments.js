@@ -29,6 +29,13 @@ assignments = {
       "dueDate": "2024-04-22T22:00:00",
       "link": "https://www.gradescope.com/courses/762798/assignments/4370038/submissions/249447493",
       "submitted": true
+    },
+    {
+      "title": "Programming Assignment 2",
+      "course": "CSE256_SP24_A00",
+      "dueDate": "2024-05-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/762798",
+      "submitted": false
     }
   ]
 };
