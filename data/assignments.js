@@ -31,7 +31,14 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Programming Assignment 2",
+      "title": "Programming Assignment 2 - Report",
+      "course": "CSE256_SP24_A00",
+      "dueDate": "2024-05-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/762798",
+      "submitted": false
+    },
+    {
+      "title": "Programming Assignment 2 - Code",
       "course": "CSE256_SP24_A00",
       "dueDate": "2024-05-13T23:59:00",
       "link": "https://www.gradescope.com/courses/762798",
