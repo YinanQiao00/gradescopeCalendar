@@ -20,6 +20,13 @@ assignments = {
       "dueDate": "2024-05-06T23:59:00",
       "link": "https://www.gradescope.com/courses/744919",
       "submitted": false
+    },
+    {
+      "title": "Project 3 : SurfStore",
+      "course": "CSE224_SP24_A00",
+      "dueDate": "2024-05-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/744919",
+      "submitted": false
     }
   ],
   "CSE256_SP24_A00": [
