@@ -50,6 +50,13 @@ assignments = {
       "dueDate": "2024-05-13T23:59:00",
       "link": "https://www.gradescope.com/courses/762798",
       "submitted": false
+    },
+    {
+      "title": "Analysis Study - Part 1",
+      "course": "CSE256_SP24_A00",
+      "dueDate": "2024-05-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/762798",
+      "submitted": false
     }
   ]
 };
