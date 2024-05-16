@@ -41,15 +41,15 @@ assignments = {
       "title": "Programming Assignment 2 - Report",
       "course": "CSE256_SP24_A00",
       "dueDate": "2024-05-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/762798",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/762798/assignments/4432934/submissions/254358218",
+      "submitted": true
     },
     {
       "title": "Programming Assignment 2 - Code",
       "course": "CSE256_SP24_A00",
       "dueDate": "2024-05-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/762798",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/762798/assignments/4433101/submissions/254358201",
+      "submitted": true
     },
     {
       "title": "Analysis Study - Part 1",
