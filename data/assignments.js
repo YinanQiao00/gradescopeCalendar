@@ -39,7 +39,7 @@ assignments = {
       "title": "Project 3 Playground (Not graded)",
       "course": "CSE224_SP24_A00",
       "dueDate": "2024-05-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/744919/assignments/4494017/submissions/255231326",
+      "link": "https://www.gradescope.com/courses/744919/assignments/4494017/submissions/255290833",
       "submitted": true
     }
   ],
