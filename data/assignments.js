@@ -75,7 +75,7 @@ assignments = {
     {
       "title": "Programming Assignment 3",
       "course": "CSE256_SP24_A00",
-      "dueDate": "2024-05-29T22:00:00",
+      "dueDate": "2024-05-31T22:00:00",
       "link": "https://www.gradescope.com/courses/762798",
       "submitted": false
     }
