@@ -85,6 +85,13 @@ assignments = {
       "dueDate": "2024-05-31T22:00:00",
       "link": "https://www.gradescope.com/courses/762798/assignments/4513811/submissions/255633402",
       "submitted": true
+    },
+    {
+      "title": "Analysis Study Final Report",
+      "course": "CSE256_SP24_A00",
+      "dueDate": "2024-06-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/762798",
+      "submitted": false
     }
   ]
 };
