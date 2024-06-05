@@ -48,6 +48,13 @@ assignments = {
       "dueDate": "2024-06-07T23:59:00",
       "link": "https://www.gradescope.com/courses/744919/assignments/4494017/submissions/255324125",
       "submitted": true
+    },
+    {
+      "title": "Project 4 Playground (Not graded)",
+      "course": "CSE224_SP24_A00",
+      "dueDate": "2024-06-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/744919",
+      "submitted": false
     }
   ],
   "CSE256_SP24_A00": [
@@ -90,6 +97,13 @@ assignments = {
       "title": "Analysis Study Final Report",
       "course": "CSE256_SP24_A00",
       "dueDate": "2024-06-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/762798",
+      "submitted": false
+    },
+    {
+      "title": "Analysis Report - Code",
+      "course": "CSE256_SP24_A00",
+      "dueDate": "2024-06-07T11:59:00",
       "link": "https://www.gradescope.com/courses/762798",
       "submitted": false
     }
