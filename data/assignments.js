@@ -97,15 +97,15 @@ assignments = {
       "title": "Analysis Study Final Report",
       "course": "CSE256_SP24_A00",
       "dueDate": "2024-06-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/762798",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/762798/assignments/4540685/submissions/256864905",
+      "submitted": true
     },
     {
       "title": "Analysis Report - Code for Implementation (optional)",
       "course": "CSE256_SP24_A00",
       "dueDate": "2024-06-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/762798",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/762798/assignments/4554702/submissions/256865014",
+      "submitted": true
     }
   ]
 };
