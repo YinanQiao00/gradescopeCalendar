@@ -39,8 +39,8 @@ assignments = {
       "title": "Project 5: Fault Tolerant Surfstore",
       "course": "CSE224_SP24_A00",
       "dueDate": "2024-06-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/744919",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/744919/assignments/4469502/submissions/256819581",
+      "submitted": true
     },
     {
       "title": "Project 3 Playground (Not graded)",
